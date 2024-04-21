@@ -1,11 +1,39 @@
-fish is fashhh
-hello world
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=d, initial-scale=1.0">
+    <title>Document</title>
+</head><h1>SHAMS UL ARFEEN</h1>
+<H2><STRONG>LETS START</STRONG><BOLD>WORK</BOLD></H2>
+<P>html <stong><span>is form of service to get interconnect </span></stong></P>
+<body>
+    
+</body>
+</html>
 
 
-git init
-git add .
-git remote add (nickname) link
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
-git commit -m "number of commit"
-git push file name main
+
+https://www.w3schools.com/html/html_links.asp
+
+
+
 
