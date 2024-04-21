@@ -1,2 +1,11 @@
 fish is fashhh
 hello world
+
+
+git init
+git add .
+git remote add (nickname) link
+
+git commit -m "number of commit"
+git push file name main
+
