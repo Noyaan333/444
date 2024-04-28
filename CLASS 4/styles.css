@@ -1,0 +1,25 @@
+.Box{
+    background-color:rgba(12, 190, 196, 0.39);
+    border-radius: 6px;
+    margin: 2px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    flex:0 1 100px;
+    
+}
+.flex-container{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    background-color:bisque;
+    height: 150px;
+    align-items:center;
+    flex-wrap:wrap;
+    gap: 10px;  
+}
+/* .Box3{ */
+    /* background-color: antiquewhite; */
+    /* align-self: center;} */
+    /* .Box4{flex:3 1 auto;} */
+    
